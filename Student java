@@ -2,10 +2,7 @@ package encapsulation;
 
 import java.util.Arrays;
 
-/**
- *
- * @author ASUS
- */
+
 public class Student extends Person{
    private int numCourses;   
    private String[] courses; 
